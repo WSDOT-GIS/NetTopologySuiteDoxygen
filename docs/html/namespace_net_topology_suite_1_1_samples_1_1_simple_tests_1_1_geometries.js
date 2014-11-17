@@ -1,0 +1,9 @@
+var namespace_net_topology_suite_1_1_samples_1_1_simple_tests_1_1_geometries =
+[
+    [ "LineStringSamples", "class_net_topology_suite_1_1_samples_1_1_simple_tests_1_1_geometries_1_1_line_string_samples.html", "class_net_topology_suite_1_1_samples_1_1_simple_tests_1_1_geometries_1_1_line_string_samples" ],
+    [ "MultiPointSamples", "class_net_topology_suite_1_1_samples_1_1_simple_tests_1_1_geometries_1_1_multi_point_samples.html", "class_net_topology_suite_1_1_samples_1_1_simple_tests_1_1_geometries_1_1_multi_point_samples" ],
+    [ "PointSamples", "class_net_topology_suite_1_1_samples_1_1_simple_tests_1_1_geometries_1_1_point_samples.html", "class_net_topology_suite_1_1_samples_1_1_simple_tests_1_1_geometries_1_1_point_samples" ],
+    [ "PolygonSamples", "class_net_topology_suite_1_1_samples_1_1_simple_tests_1_1_geometries_1_1_polygon_samples.html", "class_net_topology_suite_1_1_samples_1_1_simple_tests_1_1_geometries_1_1_polygon_samples" ],
+    [ "SerializationSamples", "class_net_topology_suite_1_1_samples_1_1_simple_tests_1_1_geometries_1_1_serialization_samples.html", "class_net_topology_suite_1_1_samples_1_1_simple_tests_1_1_geometries_1_1_serialization_samples" ],
+    [ "ValidationSuite", "class_net_topology_suite_1_1_samples_1_1_simple_tests_1_1_geometries_1_1_validation_suite.html", "class_net_topology_suite_1_1_samples_1_1_simple_tests_1_1_geometries_1_1_validation_suite" ]
+];

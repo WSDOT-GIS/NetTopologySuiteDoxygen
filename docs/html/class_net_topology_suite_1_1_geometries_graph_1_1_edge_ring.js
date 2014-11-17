@@ -1,0 +1,26 @@
+var class_net_topology_suite_1_1_geometries_graph_1_1_edge_ring =
+[
+    [ "EdgeRing", "class_net_topology_suite_1_1_geometries_graph_1_1_edge_ring.html#af23e426e507175496344d8276aad5808", null ],
+    [ "AddHole", "class_net_topology_suite_1_1_geometries_graph_1_1_edge_ring.html#abf839973cfe95a6c7fab2e1be2e1f7d7", null ],
+    [ "AddPoints", "class_net_topology_suite_1_1_geometries_graph_1_1_edge_ring.html#aca5e321f726e68b6654c98b22ad5fdc7", null ],
+    [ "ComputePoints", "class_net_topology_suite_1_1_geometries_graph_1_1_edge_ring.html#abf43a5af9c64e873ae3bb941463ea29b", null ],
+    [ "ComputeRing", "class_net_topology_suite_1_1_geometries_graph_1_1_edge_ring.html#a244b7f631d69e5c8e932c2b1330615e9", null ],
+    [ "ContainsPoint", "class_net_topology_suite_1_1_geometries_graph_1_1_edge_ring.html#aa27dc4b27d30cd9e44e3f65380ad3a28", null ],
+    [ "GetCoordinate", "class_net_topology_suite_1_1_geometries_graph_1_1_edge_ring.html#ab4ed124319e245d7133398b3c0bfbebb", null ],
+    [ "GetNext", "class_net_topology_suite_1_1_geometries_graph_1_1_edge_ring.html#a561d112ae5bde1e0c69699b6c5ce995b", null ],
+    [ "MergeLabel", "class_net_topology_suite_1_1_geometries_graph_1_1_edge_ring.html#a4cd693ccdb8fe3dae4915637297cd30d", null ],
+    [ "MergeLabel", "class_net_topology_suite_1_1_geometries_graph_1_1_edge_ring.html#aa7a66e49c32f96113af7d24942a7644e", null ],
+    [ "SetEdgeRing", "class_net_topology_suite_1_1_geometries_graph_1_1_edge_ring.html#acd25b7968f5a2386d112d9fc8359c0f4", null ],
+    [ "SetInResult", "class_net_topology_suite_1_1_geometries_graph_1_1_edge_ring.html#aa1414b7e83533098e8cedcd1403c2245", null ],
+    [ "ToPolygon", "class_net_topology_suite_1_1_geometries_graph_1_1_edge_ring.html#ac9bf82eea2d71d707943d0952bdb538f", null ],
+    [ "startDe", "class_net_topology_suite_1_1_geometries_graph_1_1_edge_ring.html#af83f280368ce8281dd7e3c4b12dc0d82", null ],
+    [ "Edges", "class_net_topology_suite_1_1_geometries_graph_1_1_edge_ring.html#a446a1b1c35609501761e955dd1331420", null ],
+    [ "GeometryFactory", "class_net_topology_suite_1_1_geometries_graph_1_1_edge_ring.html#a5d9dc37a6182b495c3783c44e7c86f94", null ],
+    [ "IsHole", "class_net_topology_suite_1_1_geometries_graph_1_1_edge_ring.html#a4772f92d1911778cd178143bfb7948f2", null ],
+    [ "IsIsolated", "class_net_topology_suite_1_1_geometries_graph_1_1_edge_ring.html#af8967dee41c4ce741cc07a10d23b82e2", null ],
+    [ "IsShell", "class_net_topology_suite_1_1_geometries_graph_1_1_edge_ring.html#afa31258d9b9d21965f6a946b8d5b1038", null ],
+    [ "Label", "class_net_topology_suite_1_1_geometries_graph_1_1_edge_ring.html#a8592f87db9a9fb60a91468157b5235ae", null ],
+    [ "LinearRing", "class_net_topology_suite_1_1_geometries_graph_1_1_edge_ring.html#a3a32175ee1095aaf2b23b976bc54c83b", null ],
+    [ "MaxNodeDegree", "class_net_topology_suite_1_1_geometries_graph_1_1_edge_ring.html#a3c5cb56abbf02ae2d998c4caa1a8c490", null ],
+    [ "Shell", "class_net_topology_suite_1_1_geometries_graph_1_1_edge_ring.html#aaa6be7f53588a57e8b153b52078fdb7f", null ]
+];

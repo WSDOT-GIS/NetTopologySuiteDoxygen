@@ -1,0 +1,4 @@
+var namespace_net_topology_suite_1_1_samples_1_1_precision =
+[
+    [ "EnhancedPrecisionOpExample", "class_net_topology_suite_1_1_samples_1_1_precision_1_1_enhanced_precision_op_example.html", "class_net_topology_suite_1_1_samples_1_1_precision_1_1_enhanced_precision_op_example" ]
+];

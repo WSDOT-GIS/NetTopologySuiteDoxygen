@@ -1,0 +1,8 @@
+var class_net_topology_suite_1_1_operation_1_1_buffer_1_1_validate_1_1_buffer_curve_maximum_distance_finder =
+[
+    [ "MaxMidpointDistanceFilter", "class_net_topology_suite_1_1_operation_1_1_buffer_1_1_validate_1_1_buffer_curve_maximum_distance4630d6a07a76cf9cc0690fa198f71f0a.html", "class_net_topology_suite_1_1_operation_1_1_buffer_1_1_validate_1_1_buffer_curve_maximum_distance4630d6a07a76cf9cc0690fa198f71f0a" ],
+    [ "MaxPointDistanceFilter", "class_net_topology_suite_1_1_operation_1_1_buffer_1_1_validate_1_1_buffer_curve_maximum_distance2e670394f467fe6abc6dd89e8701adb3.html", "class_net_topology_suite_1_1_operation_1_1_buffer_1_1_validate_1_1_buffer_curve_maximum_distance2e670394f467fe6abc6dd89e8701adb3" ],
+    [ "BufferCurveMaximumDistanceFinder", "class_net_topology_suite_1_1_operation_1_1_buffer_1_1_validate_1_1_buffer_curve_maximum_distance_finder.html#aa1f42a8cb20e02650b88033603815b39", null ],
+    [ "FindDistance", "class_net_topology_suite_1_1_operation_1_1_buffer_1_1_validate_1_1_buffer_curve_maximum_distance_finder.html#aae933479baaf681660f3ff938435b8f3", null ],
+    [ "DistancePoints", "class_net_topology_suite_1_1_operation_1_1_buffer_1_1_validate_1_1_buffer_curve_maximum_distance_finder.html#abce8ebc3fa7f5d616f7c33b8d32d7ea5", null ]
+];

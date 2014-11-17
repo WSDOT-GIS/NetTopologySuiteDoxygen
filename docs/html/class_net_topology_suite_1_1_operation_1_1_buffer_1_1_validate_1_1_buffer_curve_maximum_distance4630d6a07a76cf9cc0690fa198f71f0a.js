@@ -1,0 +1,8 @@
+var class_net_topology_suite_1_1_operation_1_1_buffer_1_1_validate_1_1_buffer_curve_maximum_distance4630d6a07a76cf9cc0690fa198f71f0a =
+[
+    [ "MaxMidpointDistanceFilter", "class_net_topology_suite_1_1_operation_1_1_buffer_1_1_validate_1_1_buffer_curve_maximum_distance4630d6a07a76cf9cc0690fa198f71f0a.html#abe24cff9f2ee73a0c854165b66cda801", null ],
+    [ "Filter", "class_net_topology_suite_1_1_operation_1_1_buffer_1_1_validate_1_1_buffer_curve_maximum_distance4630d6a07a76cf9cc0690fa198f71f0a.html#a249812ea28d1ed23cac08948108a6dd9", null ],
+    [ "Done", "class_net_topology_suite_1_1_operation_1_1_buffer_1_1_validate_1_1_buffer_curve_maximum_distance4630d6a07a76cf9cc0690fa198f71f0a.html#a46eb453248dab7755165ca682bf34693", null ],
+    [ "GeometryChanged", "class_net_topology_suite_1_1_operation_1_1_buffer_1_1_validate_1_1_buffer_curve_maximum_distance4630d6a07a76cf9cc0690fa198f71f0a.html#a979d993f7873a9808518eb10c6819360", null ],
+    [ "MaxPointDistance", "class_net_topology_suite_1_1_operation_1_1_buffer_1_1_validate_1_1_buffer_curve_maximum_distance4630d6a07a76cf9cc0690fa198f71f0a.html#add663495540a159d035b8a19ecd7a1bf", null ]
+];

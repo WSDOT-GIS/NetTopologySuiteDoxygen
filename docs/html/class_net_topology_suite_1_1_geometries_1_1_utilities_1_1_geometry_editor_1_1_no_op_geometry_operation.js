@@ -1,0 +1,4 @@
+var class_net_topology_suite_1_1_geometries_1_1_utilities_1_1_geometry_editor_1_1_no_op_geometry_operation =
+[
+    [ "Edit", "class_net_topology_suite_1_1_geometries_1_1_utilities_1_1_geometry_editor_1_1_no_op_geometry_operation.html#af2c812fa0eb7734f7f9c5d9c3bd51d99", null ]
+];

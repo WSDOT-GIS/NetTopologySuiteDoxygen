@@ -1,0 +1,4 @@
+var class_net_topology_suite_1_1_i_o_1_1_tests_1_1_geo_j_s_o_n_1_1_issue16_fixture =
+[
+    [ "valid_feature_collection_geojson_should_be_serialized", "class_net_topology_suite_1_1_i_o_1_1_tests_1_1_geo_j_s_o_n_1_1_issue16_fixture.html#acc754ce2d495c123b199c3c832db83b2", null ]
+];

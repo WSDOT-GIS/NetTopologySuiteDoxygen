@@ -1,0 +1,4 @@
+var namespace_net_topology_suite_1_1_i_o_1_1_shape_file_1_1_extended_1_1_entities =
+[
+    [ "IShapefileFeature", "interface_net_topology_suite_1_1_i_o_1_1_shape_file_1_1_extended_1_1_entities_1_1_i_shapefile_feature.html", "interface_net_topology_suite_1_1_i_o_1_1_shape_file_1_1_extended_1_1_entities_1_1_i_shapefile_feature" ]
+];

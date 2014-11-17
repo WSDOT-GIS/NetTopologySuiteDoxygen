@@ -1,0 +1,5 @@
+var namespace_net_topology_suite_1_1_tests_1_1_n_unit_1_1_precision =
+[
+    [ "GeometryPrecisionReducerTest", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_precision_1_1_geometry_precision_reducer_test.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_precision_1_1_geometry_precision_reducer_test" ],
+    [ "SimpleGeometryPrecisionReducerTest", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_precision_1_1_simple_geometry_precision_reducer_test.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_precision_1_1_simple_geometry_precision_reducer_test" ]
+];

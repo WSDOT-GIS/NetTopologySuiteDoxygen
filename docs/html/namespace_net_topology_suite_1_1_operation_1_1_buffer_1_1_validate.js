@@ -1,0 +1,7 @@
+var namespace_net_topology_suite_1_1_operation_1_1_buffer_1_1_validate =
+[
+    [ "BufferCurveMaximumDistanceFinder", "class_net_topology_suite_1_1_operation_1_1_buffer_1_1_validate_1_1_buffer_curve_maximum_distance_finder.html", "class_net_topology_suite_1_1_operation_1_1_buffer_1_1_validate_1_1_buffer_curve_maximum_distance_finder" ],
+    [ "BufferDistanceValidator", "class_net_topology_suite_1_1_operation_1_1_buffer_1_1_validate_1_1_buffer_distance_validator.html", "class_net_topology_suite_1_1_operation_1_1_buffer_1_1_validate_1_1_buffer_distance_validator" ],
+    [ "BufferResultValidator", "class_net_topology_suite_1_1_operation_1_1_buffer_1_1_validate_1_1_buffer_result_validator.html", "class_net_topology_suite_1_1_operation_1_1_buffer_1_1_validate_1_1_buffer_result_validator" ],
+    [ "PointPairDistance", "class_net_topology_suite_1_1_operation_1_1_buffer_1_1_validate_1_1_point_pair_distance.html", "class_net_topology_suite_1_1_operation_1_1_buffer_1_1_validate_1_1_point_pair_distance" ]
+];

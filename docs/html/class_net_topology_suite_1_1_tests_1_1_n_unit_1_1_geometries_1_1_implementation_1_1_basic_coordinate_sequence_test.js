@@ -1,0 +1,4 @@
+var class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_geometries_1_1_implementation_1_1_basic_coordinate_sequence_test =
+[
+    [ "TestClone", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_geometries_1_1_implementation_1_1_basic_coordinate_sequence_test.html#a279082092ea703bf10ef2f28cd7e0140", null ]
+];

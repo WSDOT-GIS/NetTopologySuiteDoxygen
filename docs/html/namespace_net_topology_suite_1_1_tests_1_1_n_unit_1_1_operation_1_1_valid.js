@@ -1,0 +1,6 @@
+var namespace_net_topology_suite_1_1_tests_1_1_n_unit_1_1_operation_1_1_valid =
+[
+    [ "IsValidTest", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_operation_1_1_valid_1_1_is_valid_test.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_operation_1_1_valid_1_1_is_valid_test" ],
+    [ "ValidClosedRingTest", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_operation_1_1_valid_1_1_valid_closed_ring_test.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_operation_1_1_valid_1_1_valid_closed_ring_test" ],
+    [ "ValidSelfTouchingRingFormingHoleTest", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_operation_1_1_valid_1_1_valid_self_touching_ring_forming_hole_test.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_operation_1_1_valid_1_1_valid_self_touching_ring_forming_hole_test" ]
+];

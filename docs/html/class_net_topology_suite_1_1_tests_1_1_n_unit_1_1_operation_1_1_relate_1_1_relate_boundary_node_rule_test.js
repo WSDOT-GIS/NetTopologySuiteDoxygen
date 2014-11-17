@@ -1,0 +1,9 @@
+var class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_operation_1_1_relate_1_1_relate_boundary_node_rule_test =
+[
+    [ "RelateBoundaryNodeRuleTest", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_operation_1_1_relate_1_1_relate_boundary_node_rule_test.html#afe040a80cfceebc3e836cee2b3f1d401", null ],
+    [ "TestLineRingTouchAtEndpointAndInterior", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_operation_1_1_relate_1_1_relate_boundary_node_rule_test.html#a7f5b2573c653ad110bc182c8e81d4791", null ],
+    [ "TestLineRingTouchAtEndpoints", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_operation_1_1_relate_1_1_relate_boundary_node_rule_test.html#a30885a982f167fb0a69b05b278cd547f", null ],
+    [ "TestLineStringSelfIntTouchAtEndpoint", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_operation_1_1_relate_1_1_relate_boundary_node_rule_test.html#a373c7969307b91c32581d5113c1be79d", null ],
+    [ "TestMultiLineStringSelfIntTouchAtEndpoint", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_operation_1_1_relate_1_1_relate_boundary_node_rule_test.html#a2295ad9eb2c5c84115869f4fbdbab647", null ],
+    [ "TestMultiLineStringTouchAtEndpoint", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_operation_1_1_relate_1_1_relate_boundary_node_rule_test.html#a462d39ddc5531560960f0e10bebdf379", null ]
+];

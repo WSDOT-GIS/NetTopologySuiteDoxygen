@@ -1,0 +1,4 @@
+var namespace_net_topology_suite_1_1_samples_1_1_operation_1_1_distance =
+[
+    [ "ClosestPointExample", "class_net_topology_suite_1_1_samples_1_1_operation_1_1_distance_1_1_closest_point_example.html", "class_net_topology_suite_1_1_samples_1_1_operation_1_1_distance_1_1_closest_point_example" ]
+];

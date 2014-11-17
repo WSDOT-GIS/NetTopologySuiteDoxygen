@@ -1,0 +1,8 @@
+var class_net_topology_suite_1_1_algorithm_1_1_distance_1_1_discrete_hausdorff_distance_1_1_max_dens538d9fe1ecabd56f7fb9cfca14c968bb =
+[
+    [ "MaxDensifiedByFractionDistanceFilter", "class_net_topology_suite_1_1_algorithm_1_1_distance_1_1_discrete_hausdorff_distance_1_1_max_dens538d9fe1ecabd56f7fb9cfca14c968bb.html#a71f05431fd024d16ab7ec11e45aee8d2", null ],
+    [ "Filter", "class_net_topology_suite_1_1_algorithm_1_1_distance_1_1_discrete_hausdorff_distance_1_1_max_dens538d9fe1ecabd56f7fb9cfca14c968bb.html#a9d0bd0dd90bb344aff1a56bce8566afd", null ],
+    [ "Done", "class_net_topology_suite_1_1_algorithm_1_1_distance_1_1_discrete_hausdorff_distance_1_1_max_dens538d9fe1ecabd56f7fb9cfca14c968bb.html#afd16c64031b18b61c58f76b9ec3296ee", null ],
+    [ "GeometryChanged", "class_net_topology_suite_1_1_algorithm_1_1_distance_1_1_discrete_hausdorff_distance_1_1_max_dens538d9fe1ecabd56f7fb9cfca14c968bb.html#ae3553d2348160656c6438f0b017aad0b", null ],
+    [ "MaxPointDistance", "class_net_topology_suite_1_1_algorithm_1_1_distance_1_1_discrete_hausdorff_distance_1_1_max_dens538d9fe1ecabd56f7fb9cfca14c968bb.html#a110eea04488719850d32d2687675745d", null ]
+];

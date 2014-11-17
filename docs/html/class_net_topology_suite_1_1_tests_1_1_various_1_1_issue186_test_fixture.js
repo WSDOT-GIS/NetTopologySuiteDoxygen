@@ -1,0 +1,7 @@
+var class_net_topology_suite_1_1_tests_1_1_various_1_1_issue186_test_fixture =
+[
+    [ "feature_collection_is_serialized_as_geojson_when_type_is_placed_as_first_property", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue186_test_fixture.html#ab411d49cba27f52434ad46090855fdee", null ],
+    [ "feature_collection_is_serialized_as_geojson_when_type_is_placed_as_last_property", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue186_test_fixture.html#af9c37af6a0eaf9704df792318ba5d5c3", null ],
+    [ "feature_collection_with_arbitrary_properties_is_serialized_as_geojson", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue186_test_fixture.html#a04422110c54f2dd683636275fde325de", null ],
+    [ "feature_collection_with_crs_is_serialized_as_geojson", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue186_test_fixture.html#a1af78c5a8c6d29d97f72c5215514ba43", null ]
+];

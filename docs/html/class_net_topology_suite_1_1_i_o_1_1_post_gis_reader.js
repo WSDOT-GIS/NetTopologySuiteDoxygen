@@ -1,0 +1,26 @@
+var class_net_topology_suite_1_1_i_o_1_1_post_gis_reader =
+[
+    [ "PostGisReader", "class_net_topology_suite_1_1_i_o_1_1_post_gis_reader.html#aa58e382767b6eb6bbd0b0bff126ba55c", null ],
+    [ "PostGisReader", "class_net_topology_suite_1_1_i_o_1_1_post_gis_reader.html#ae925c3e83e2a368e6c9cf6599bc0b627", null ],
+    [ "PostGisReader", "class_net_topology_suite_1_1_i_o_1_1_post_gis_reader.html#a2586a8dbda5adf70b3fee0ac16bb5b34", null ],
+    [ "PostGisReader", "class_net_topology_suite_1_1_i_o_1_1_post_gis_reader.html#a5390d553de155d5b1b4aab010ebc658e", null ],
+    [ "Read", "class_net_topology_suite_1_1_i_o_1_1_post_gis_reader.html#abb78844f6d9f6b758a3a3dad4ae4c3ef", null ],
+    [ "Read", "class_net_topology_suite_1_1_i_o_1_1_post_gis_reader.html#a1bb1abf8b954dd3bcc7c4da8747ec51f", null ],
+    [ "Read", "class_net_topology_suite_1_1_i_o_1_1_post_gis_reader.html#ac9f2b3d872730d8bd013ec2c1d18f00b", null ],
+    [ "ReadCoordinateSequence", "class_net_topology_suite_1_1_i_o_1_1_post_gis_reader.html#a97809f1568c85755b0e3e4371522127a", null ],
+    [ "ReadCoordinateSequence", "class_net_topology_suite_1_1_i_o_1_1_post_gis_reader.html#afb66b4a41674ae1c0133a5240f07e200", null ],
+    [ "ReadCoordinateSequenceRing", "class_net_topology_suite_1_1_i_o_1_1_post_gis_reader.html#ab39e05d4972565ee687e45c8567775e4", null ],
+    [ "ReadGeometryArray< TGeometry >", "class_net_topology_suite_1_1_i_o_1_1_post_gis_reader.html#a8d60680f161aee183849d0e5c7cf1401", null ],
+    [ "ReadGeometryCollection", "class_net_topology_suite_1_1_i_o_1_1_post_gis_reader.html#aec2908558a87f758613c4bbc049ce5e5", null ],
+    [ "ReadLinearRing", "class_net_topology_suite_1_1_i_o_1_1_post_gis_reader.html#a4429b3311fabc8334456d8c4a990c8f7", null ],
+    [ "ReadLineString", "class_net_topology_suite_1_1_i_o_1_1_post_gis_reader.html#a991d81cf3ee91ff8e93be42e5002366a", null ],
+    [ "ReadMultiLineString", "class_net_topology_suite_1_1_i_o_1_1_post_gis_reader.html#a3d7ce0e039aff4cc8e4f8783c81624cf", null ],
+    [ "ReadMultiPoint", "class_net_topology_suite_1_1_i_o_1_1_post_gis_reader.html#a45263ce0ad3ad249b4befc9071afdda5", null ],
+    [ "ReadMultiPolygon", "class_net_topology_suite_1_1_i_o_1_1_post_gis_reader.html#adec65cf97733898c23dc02ee2b3c342a", null ],
+    [ "ReadPoint", "class_net_topology_suite_1_1_i_o_1_1_post_gis_reader.html#af81969545d9ae77aa5d360e863787643", null ],
+    [ "ReadPolygon", "class_net_topology_suite_1_1_i_o_1_1_post_gis_reader.html#aedf8c7d8421a47b204140ec5801bbd66", null ],
+    [ "AllowedOrdinates", "class_net_topology_suite_1_1_i_o_1_1_post_gis_reader.html#ac7bb2c81772700a6b3aec8e555e1ceaf", null ],
+    [ "HandleOrdinates", "class_net_topology_suite_1_1_i_o_1_1_post_gis_reader.html#a976987ccdbc44f427b7cac813904568e", null ],
+    [ "HandleSRID", "class_net_topology_suite_1_1_i_o_1_1_post_gis_reader.html#a787fb6ed6e443643328516882e474ddc", null ],
+    [ "RepairRings", "class_net_topology_suite_1_1_i_o_1_1_post_gis_reader.html#a94cf570cb357cd34003d8bb819d97dae", null ]
+];

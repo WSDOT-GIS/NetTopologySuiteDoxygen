@@ -1,0 +1,12 @@
+var class_net_topology_suite_1_1_samples_1_1_tests_1_1_various_1_1_affine_transform_builder_usage_1_1_least_squares_transform =
+[
+    [ "LeastSquaresTransform", "class_net_topology_suite_1_1_samples_1_1_tests_1_1_various_1_1_affine_transform_builder_usage_1_1_least_squares_transform.html#a478f547708282aec983aafec44375d3f", null ],
+    [ "AddInputOutputPoint", "class_net_topology_suite_1_1_samples_1_1_tests_1_1_various_1_1_affine_transform_builder_usage_1_1_least_squares_transform.html#abc18646c9ab879d47cb48f754189deaf", null ],
+    [ "GetAffineTransformation", "class_net_topology_suite_1_1_samples_1_1_tests_1_1_various_1_1_affine_transform_builder_usage_1_1_least_squares_transform.html#a9c6900bc866f37ba6a3192bddb0b3a6a", null ],
+    [ "GetHelmertTransformation", "class_net_topology_suite_1_1_samples_1_1_tests_1_1_various_1_1_affine_transform_builder_usage_1_1_least_squares_transform.html#a70aca2a9540c2fb2e2d1f872a0294ad8", null ],
+    [ "GetInputPoint", "class_net_topology_suite_1_1_samples_1_1_tests_1_1_various_1_1_affine_transform_builder_usage_1_1_least_squares_transform.html#a08a33163fd4d3d06e3763f73880ddd4c", null ],
+    [ "GetOutputPoint", "class_net_topology_suite_1_1_samples_1_1_tests_1_1_various_1_1_affine_transform_builder_usage_1_1_least_squares_transform.html#ab854506249b6829e85ba63abe33b256a", null ],
+    [ "RemoveInputOutputPointAt", "class_net_topology_suite_1_1_samples_1_1_tests_1_1_various_1_1_affine_transform_builder_usage_1_1_least_squares_transform.html#aa3d8a3450a7a17951594b1a2ad01d19e", null ],
+    [ "SetInputPointAt", "class_net_topology_suite_1_1_samples_1_1_tests_1_1_various_1_1_affine_transform_builder_usage_1_1_least_squares_transform.html#acd89cd1a13d214208c11d6a5ac9bca6c", null ],
+    [ "SetOutputPointAt", "class_net_topology_suite_1_1_samples_1_1_tests_1_1_various_1_1_affine_transform_builder_usage_1_1_least_squares_transform.html#ab09c85eeadd0791ba4c2b0efd32a9a61", null ]
+];

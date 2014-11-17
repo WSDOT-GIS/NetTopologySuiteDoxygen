@@ -1,0 +1,27 @@
+var namespace_net_topology_suite_1_1_tests_1_1_various =
+[
+    [ "GoogleGroupTests", "class_net_topology_suite_1_1_tests_1_1_various_1_1_google_group_tests.html", "class_net_topology_suite_1_1_tests_1_1_various_1_1_google_group_tests" ],
+    [ "GoogleIssueTrackerTests", "class_net_topology_suite_1_1_tests_1_1_various_1_1_google_issue_tracker_tests.html", "class_net_topology_suite_1_1_tests_1_1_various_1_1_google_issue_tracker_tests" ],
+    [ "GraphBuilder2Test", "class_net_topology_suite_1_1_tests_1_1_various_1_1_graph_builder2_test.html", "class_net_topology_suite_1_1_tests_1_1_various_1_1_graph_builder2_test" ],
+    [ "Helper", "class_net_topology_suite_1_1_tests_1_1_various_1_1_helper.html", null ],
+    [ "Issue102Test", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue102_test.html", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue102_test" ],
+    [ "Issue117Tests", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue117_tests.html", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue117_tests" ],
+    [ "Issue123Test", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue123_test.html", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue123_test" ],
+    [ "Issue131Test", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue131_test.html", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue131_test" ],
+    [ "Issue152Tests", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue152_tests.html", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue152_tests" ],
+    [ "Issue178Fixture", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue178_fixture.html", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue178_fixture" ],
+    [ "Issue179Fixture", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue179_fixture.html", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue179_fixture" ],
+    [ "Issue186TestFixture", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue186_test_fixture.html", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue186_test_fixture" ],
+    [ "Issue26Tests", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue26_tests.html", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue26_tests" ],
+    [ "Issue35Tests", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue35_tests.html", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue35_tests" ],
+    [ "Issue36Tests", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue36_tests.html", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue36_tests" ],
+    [ "Issue37Tests", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue37_tests.html", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue37_tests" ],
+    [ "Issue56Tests", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue56_tests.html", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue56_tests" ],
+    [ "Issue58Tests", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue58_tests.html", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue58_tests" ],
+    [ "Issue68Tests", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue68_tests.html", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue68_tests" ],
+    [ "Issue86Test", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue86_test.html", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue86_test" ],
+    [ "Issue94Test", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue94_test.html", "class_net_topology_suite_1_1_tests_1_1_various_1_1_issue94_test" ],
+    [ "PathFinderTest", "class_net_topology_suite_1_1_tests_1_1_various_1_1_path_finder_test.html", "class_net_topology_suite_1_1_tests_1_1_various_1_1_path_finder_test" ],
+    [ "QuadTreeTest", "class_net_topology_suite_1_1_tests_1_1_various_1_1_quad_tree_test.html", "class_net_topology_suite_1_1_tests_1_1_various_1_1_quad_tree_test" ],
+    [ "SlowIntersectionTest", "class_net_topology_suite_1_1_tests_1_1_various_1_1_slow_intersection_test.html", "class_net_topology_suite_1_1_tests_1_1_various_1_1_slow_intersection_test" ]
+];

@@ -1,0 +1,15 @@
+var class_net_topology_suite_1_1_i_o_1_1_tests_1_1_shape_file_1_1_extended_1_1_dbase_reader_tests =
+[
+    [ "Ctor_SendEmptyString_ShouldThrowException", "class_net_topology_suite_1_1_i_o_1_1_tests_1_1_shape_file_1_1_extended_1_1_dbase_reader_tests.html#aca038a5997f07f3de49a4429e769eacb", null ],
+    [ "Ctor_SendNonExistantPath_ShouldThrowException", "class_net_topology_suite_1_1_i_o_1_1_tests_1_1_shape_file_1_1_extended_1_1_dbase_reader_tests.html#a2ce90f877cc385df60bc8733a8112e47", null ],
+    [ "Ctor_SendNullPath_ShouldThrowException", "class_net_topology_suite_1_1_i_o_1_1_tests_1_1_shape_file_1_1_extended_1_1_dbase_reader_tests.html#a9bab37aafd1f15261081c729727cbf55", null ],
+    [ "Ctor_SendValidParameters_ShouldReturnNotNull", "class_net_topology_suite_1_1_i_o_1_1_tests_1_1_shape_file_1_1_extended_1_1_dbase_reader_tests.html#a41331a421195c7ee558a571a5da0b770", null ],
+    [ "Ctor_SendWhitespaceString_ShouldThrowException", "class_net_topology_suite_1_1_i_o_1_1_tests_1_1_shape_file_1_1_extended_1_1_dbase_reader_tests.html#af0b9d5bf46a265210ea838e7ca125880", null ],
+    [ "ForEachIteration_ReadEntryValues_ShoudReturnCorrectValues", "class_net_topology_suite_1_1_i_o_1_1_tests_1_1_shape_file_1_1_extended_1_1_dbase_reader_tests.html#aab91c3a45509117f391eb968cb75c527", null ],
+    [ "ReadEntry_ReadEntryValues_ShoudReturnCorrectValues", "class_net_topology_suite_1_1_i_o_1_1_tests_1_1_shape_file_1_1_extended_1_1_dbase_reader_tests.html#a1c5e306053f4aae42d26b2555214603f", null ],
+    [ "ReadEntry_ReadNonExistantKeyFromEntry_ShoudReturnCorrectValues", "class_net_topology_suite_1_1_i_o_1_1_tests_1_1_shape_file_1_1_extended_1_1_dbase_reader_tests.html#ae2e700dacc401e177896791f344bf0ae", null ],
+    [ "ReadEntry_SendNegativeIndex_ShouldThrowException", "class_net_topology_suite_1_1_i_o_1_1_tests_1_1_shape_file_1_1_extended_1_1_dbase_reader_tests.html#a2c5ba6d9259df272a0c535c5b3d5c8e6", null ],
+    [ "ReadEntry_SendOutOfBoundIndex_ShouldThrowException", "class_net_topology_suite_1_1_i_o_1_1_tests_1_1_shape_file_1_1_extended_1_1_dbase_reader_tests.html#a1d7a2c780701e1abc14ee9bdafedf1c9", null ],
+    [ "ReadEntry_TryReadAfterDisposed_ShouldThrowException", "class_net_topology_suite_1_1_i_o_1_1_tests_1_1_shape_file_1_1_extended_1_1_dbase_reader_tests.html#a0c083866fcac0dabe60c080ef2756196", null ],
+    [ "TestCleanup", "class_net_topology_suite_1_1_i_o_1_1_tests_1_1_shape_file_1_1_extended_1_1_dbase_reader_tests.html#a02f6ed3a62ef6bb79e19337bdd428a1e", null ]
+];

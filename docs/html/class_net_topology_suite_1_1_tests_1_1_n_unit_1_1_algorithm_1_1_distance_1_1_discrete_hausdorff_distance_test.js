@@ -1,0 +1,7 @@
+var class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_distance_1_1_discrete_hausdorff_distance_test =
+[
+    [ "TestLinePoints", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_distance_1_1_discrete_hausdorff_distance_test.html#ac21c3bb34e50e86248d2b29eac950217", null ],
+    [ "TestLineSegments", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_distance_1_1_discrete_hausdorff_distance_test.html#a67bab1b47bbcb77236dc6ce564cd131b", null ],
+    [ "TestLineSegments2", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_distance_1_1_discrete_hausdorff_distance_test.html#a3bacb08f6cb8cd49f9c5b2d8587fe397", null ],
+    [ "TestLinesShowingDiscretenessEffect", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_distance_1_1_discrete_hausdorff_distance_test.html#a3367fbb4b75ef357f7a65278bbeda12e", null ]
+];

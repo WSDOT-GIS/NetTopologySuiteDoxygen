@@ -1,0 +1,10 @@
+var class_net_topology_suite_1_1_geometries_1_1_utilities_1_1_geometry_editor =
+[
+    [ "CoordinateOperation", "class_net_topology_suite_1_1_geometries_1_1_utilities_1_1_geometry_editor_1_1_coordinate_operation.html", "class_net_topology_suite_1_1_geometries_1_1_utilities_1_1_geometry_editor_1_1_coordinate_operation" ],
+    [ "CoordinateSequenceOperation", "class_net_topology_suite_1_1_geometries_1_1_utilities_1_1_geometry_editor_1_1_coordinate_sequence_operation.html", "class_net_topology_suite_1_1_geometries_1_1_utilities_1_1_geometry_editor_1_1_coordinate_sequence_operation" ],
+    [ "IGeometryEditorOperation", "interface_net_topology_suite_1_1_geometries_1_1_utilities_1_1_geometry_editor_1_1_i_geometry_editor_operation.html", "interface_net_topology_suite_1_1_geometries_1_1_utilities_1_1_geometry_editor_1_1_i_geometry_editor_operation" ],
+    [ "NoOpGeometryOperation", "class_net_topology_suite_1_1_geometries_1_1_utilities_1_1_geometry_editor_1_1_no_op_geometry_operation.html", "class_net_topology_suite_1_1_geometries_1_1_utilities_1_1_geometry_editor_1_1_no_op_geometry_operation" ],
+    [ "GeometryEditor", "class_net_topology_suite_1_1_geometries_1_1_utilities_1_1_geometry_editor.html#a2d3f9a999da9ac0828be2a6c1fa93ab3", null ],
+    [ "GeometryEditor", "class_net_topology_suite_1_1_geometries_1_1_utilities_1_1_geometry_editor.html#a3393cb107d17ab8a8a363fc6d853d90c", null ],
+    [ "Edit", "class_net_topology_suite_1_1_geometries_1_1_utilities_1_1_geometry_editor.html#a52b1690462f7fc62f0f8f5bb58e79b71", null ]
+];

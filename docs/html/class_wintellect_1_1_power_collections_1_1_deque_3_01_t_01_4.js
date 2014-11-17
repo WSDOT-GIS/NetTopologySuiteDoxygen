@@ -1,0 +1,27 @@
+var class_wintellect_1_1_power_collections_1_1_deque_3_01_t_01_4 =
+[
+    [ "Deque", "class_wintellect_1_1_power_collections_1_1_deque_3_01_t_01_4.html#aa6face0fd8afd5fbdc9dfdd4946a87bd", null ],
+    [ "Deque", "class_wintellect_1_1_power_collections_1_1_deque_3_01_t_01_4.html#adec5ea8f5095e49342aef02cfb85f33f", null ],
+    [ "Add", "class_wintellect_1_1_power_collections_1_1_deque_3_01_t_01_4.html#aeaceec3c4ae5add35d8acd3296fc076d", null ],
+    [ "AddManyToBack", "class_wintellect_1_1_power_collections_1_1_deque_3_01_t_01_4.html#a0d95a90f4c1370bf401948cd33c8959d", null ],
+    [ "AddManyToFront", "class_wintellect_1_1_power_collections_1_1_deque_3_01_t_01_4.html#a3ef8ed756217481d3ce80a3525bf0904", null ],
+    [ "AddToBack", "class_wintellect_1_1_power_collections_1_1_deque_3_01_t_01_4.html#ab83cc13a4d2e61b630ee6d95e7948873", null ],
+    [ "AddToFront", "class_wintellect_1_1_power_collections_1_1_deque_3_01_t_01_4.html#a8a234306a15313498806c32d98db24b4", null ],
+    [ "Clear", "class_wintellect_1_1_power_collections_1_1_deque_3_01_t_01_4.html#ae9d2e4790987527e071542e0fbfa6dc4", null ],
+    [ "Clone", "class_wintellect_1_1_power_collections_1_1_deque_3_01_t_01_4.html#a693b2f3371a6550d4f59f2b1e6d2c491", null ],
+    [ "CloneContents", "class_wintellect_1_1_power_collections_1_1_deque_3_01_t_01_4.html#ada7844e7f5bf5de36d9ba591cd07813f", null ],
+    [ "CopyTo", "class_wintellect_1_1_power_collections_1_1_deque_3_01_t_01_4.html#a091b0cee869fecb8e5b7e3e35110c66e", null ],
+    [ "GetAtBack", "class_wintellect_1_1_power_collections_1_1_deque_3_01_t_01_4.html#a70b92b7087114195f20355a4fbd873cb", null ],
+    [ "GetAtFront", "class_wintellect_1_1_power_collections_1_1_deque_3_01_t_01_4.html#a3a0fc54c59c8407d14a5d8ccc1ba4f93", null ],
+    [ "GetEnumerator", "class_wintellect_1_1_power_collections_1_1_deque_3_01_t_01_4.html#ad73959f35838ed75e315054ceea1e70e", null ],
+    [ "Insert", "class_wintellect_1_1_power_collections_1_1_deque_3_01_t_01_4.html#a428f688d167241f1484574e9f7d3bacb", null ],
+    [ "InsertRange", "class_wintellect_1_1_power_collections_1_1_deque_3_01_t_01_4.html#a0fa8a42d42f65e633d78e53e5c4a2489", null ],
+    [ "RemoveAt", "class_wintellect_1_1_power_collections_1_1_deque_3_01_t_01_4.html#abc088274cba4bc8f306e2a57f8bfd6a9", null ],
+    [ "RemoveFromBack", "class_wintellect_1_1_power_collections_1_1_deque_3_01_t_01_4.html#a97863d75e8d8054b82df956fc1058445", null ],
+    [ "RemoveFromFront", "class_wintellect_1_1_power_collections_1_1_deque_3_01_t_01_4.html#a5b61052d5dd527dea5e9f12fb7c0e7bc", null ],
+    [ "RemoveRange", "class_wintellect_1_1_power_collections_1_1_deque_3_01_t_01_4.html#ab8bf441d34b49e286a04e44480fb761b", null ],
+    [ "TrimToSize", "class_wintellect_1_1_power_collections_1_1_deque_3_01_t_01_4.html#a590073b70f7c710c2bebe76e6bbd6f5e", null ],
+    [ "Capacity", "class_wintellect_1_1_power_collections_1_1_deque_3_01_t_01_4.html#a6589eee6d4a4503df3f61953ceb01e43", null ],
+    [ "Count", "class_wintellect_1_1_power_collections_1_1_deque_3_01_t_01_4.html#ab11c4920c00ee6fff9a31505499529aa", null ],
+    [ "this[int index]", "class_wintellect_1_1_power_collections_1_1_deque_3_01_t_01_4.html#af78456d1d13ae613417ea24e0ea5fe80", null ]
+];

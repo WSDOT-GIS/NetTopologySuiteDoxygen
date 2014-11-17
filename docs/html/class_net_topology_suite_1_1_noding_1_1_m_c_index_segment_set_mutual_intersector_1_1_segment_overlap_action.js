@@ -1,0 +1,5 @@
+var class_net_topology_suite_1_1_noding_1_1_m_c_index_segment_set_mutual_intersector_1_1_segment_overlap_action =
+[
+    [ "SegmentOverlapAction", "class_net_topology_suite_1_1_noding_1_1_m_c_index_segment_set_mutual_intersector_1_1_segment_overlap_action.html#a56168fac9ba06581d4daafe4d266b3c7", null ],
+    [ "Overlap", "class_net_topology_suite_1_1_noding_1_1_m_c_index_segment_set_mutual_intersector_1_1_segment_overlap_action.html#ab21ddf857ed436ac0dafe7c5e88b4028", null ]
+];

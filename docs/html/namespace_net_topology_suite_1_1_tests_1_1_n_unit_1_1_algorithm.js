@@ -1,0 +1,28 @@
+var namespace_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm =
+[
+    [ "Distance", "namespace_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_distance.html", "namespace_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_distance" ],
+    [ "AbstractPointInRingTest", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_abstract_point_in_ring_test.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_abstract_point_in_ring_test" ],
+    [ "AngleTest", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_angle_test.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_angle_test" ],
+    [ "CGAlgorithmsTest", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_c_g_algorithms_test.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_c_g_algorithms_test" ],
+    [ "ComputeOrientationTest", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_compute_orientation_test.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_compute_orientation_test" ],
+    [ "ConvexHullTest", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_convex_hull_test.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_convex_hull_test" ],
+    [ "IndexedPointInAreaStressTest", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_indexed_point_in_area_stress_test.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_indexed_point_in_area_stress_test" ],
+    [ "InteriorPointTest", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_interior_point_test.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_interior_point_test" ],
+    [ "IsCCWTest", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_is_c_c_w_test.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_is_c_c_w_test" ],
+    [ "LocatePointInRingTest", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_locate_point_in_ring_test.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_locate_point_in_ring_test" ],
+    [ "MCPointInRingTest", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_m_c_point_in_ring_test.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_m_c_point_in_ring_test" ],
+    [ "MinimumBoundingCircleTest", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_minimum_bounding_circle_test.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_minimum_bounding_circle_test" ],
+    [ "MinimumDiameterTest", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_minimum_diameter_test.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_minimum_diameter_test" ],
+    [ "NonRobustLineIntersectorTest", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_non_robust_line_intersector_test.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_non_robust_line_intersector_test" ],
+    [ "OrientationIndexFailureTest", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_orientation_index_failure_test.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_orientation_index_failure_test" ],
+    [ "OrientationIndexTest", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_orientation_index_test.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_orientation_index_test" ],
+    [ "PerturbedGridPolygonBuilder", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_perturbed_grid_polygon_builder.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_perturbed_grid_polygon_builder" ],
+    [ "PointInAreaStressTester", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_point_in_area_stress_tester.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_point_in_area_stress_tester" ],
+    [ "PointInRingTest", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_point_in_ring_test.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_point_in_ring_test" ],
+    [ "PointLocatorTest", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_point_locator_test.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_point_locator_test" ],
+    [ "RayCrossingCounterTest", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_ray_crossing_counter_test.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_ray_crossing_counter_test" ],
+    [ "RectangleLineIntersectorTest", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_rectangle_line_intersector_test.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_rectangle_line_intersector_test" ],
+    [ "RobustLineIntersectionTest", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_robust_line_intersection_test.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_robust_line_intersection_test" ],
+    [ "RobustLineIntersectorTest", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_robust_line_intersector_test.html", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_robust_line_intersector_test" ],
+    [ "ShewchuksDeterminant", "class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_algorithm_1_1_shewchuks_determinant.html", null ]
+];

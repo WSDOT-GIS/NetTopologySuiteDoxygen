@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['facetsequence',['FacetSequence',['../class_net_topology_suite_1_1_operation_1_1_distance_1_1_facet_sequence.html',1,'NetTopologySuite::Operation::Distance']]],
+  ['failurexunitrunner',['FailureXUnitRunner',['../class_net_topology_suite_1_1_tests_1_1_x_unit_1_1_failure_x_unit_runner.html',1,'NetTopologySuite::Tests::XUnit']]],
+  ['fastnodingvalidator',['FastNodingValidator',['../class_net_topology_suite_1_1_noding_1_1_fast_noding_validator.html',1,'NetTopologySuite::Noding']]],
+  ['fastsegmentsetintersectionfinder',['FastSegmentSetIntersectionFinder',['../class_net_topology_suite_1_1_noding_1_1_fast_segment_set_intersection_finder.html',1,'NetTopologySuite::Noding']]],
+  ['feature',['Feature',['../class_net_topology_suite_1_1_features_1_1_feature.html',1,'NetTopologySuite::Features']]],
+  ['featurecollection',['FeatureCollection',['../class_net_topology_suite_1_1_features_1_1_feature_collection.html',1,'NetTopologySuite::Features']]],
+  ['featurecollectionconverter',['FeatureCollectionConverter',['../class_net_topology_suite_1_1_i_o_1_1_converters_1_1_feature_collection_converter.html',1,'NetTopologySuite::IO::Converters']]],
+  ['featurecollectiontest',['FeatureCollectionTest',['../class_net_topology_suite_1_1_i_o_1_1_tests_1_1_geo_j_s_o_n_1_1_feature_collection_test.html',1,'NetTopologySuite::IO::Tests::GeoJSON']]],
+  ['featureconverter',['FeatureConverter',['../class_net_topology_suite_1_1_i_o_1_1_converters_1_1_feature_converter.html',1,'NetTopologySuite::IO::Converters']]],
+  ['featureconvertertest',['FeatureConverterTest',['../class_net_topology_suite_1_1_i_o_1_1_tests_1_1_geo_j_s_o_n_1_1_feature_converter_test.html',1,'NetTopologySuite::IO::Tests::GeoJSON']]],
+  ['filebufferresultvalidatortest',['FileBufferResultValidatorTest',['../class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_performance_1_1_operation_1_1_buffer_1_1_file_buffer_result_validator_test.html',1,'NetTopologySuite::Tests::NUnit::Performance::Operation::Buffer']]],
+  ['fixedprecisionsnappingtest',['FixedPrecisionSnappingTest',['../class_net_topology_suite_1_1_tests_1_1_n_unit_1_1_operation_1_1_overlay_1_1_fixed_precision_snapping_test.html',1,'NetTopologySuite::Tests::NUnit::Operation::Overlay']]],
+  ['floattoken',['FloatToken',['../class_r_tools___n_t_s_1_1_util_1_1_float_token.html',1,'RTools_NTS::Util']]],
+  ['fontglyphreader',['FontGlyphReader',['../class_net_topology_suite_1_1_windows_1_1_forms_1_1_font_glyph_reader.html',1,'NetTopologySuite::Windows::Forms']]],
+  ['fontglyphreader',['FontGlyphReader',['../class_net_topology_suite_1_1_windows_1_1_media_1_1_font_glyph_reader.html',1,'NetTopologySuite::Windows::Media']]],
+  ['formattingtest',['FormattingTest',['../class_net_topology_suite_1_1_samples_1_1_tests_1_1_various_1_1_formatting_test.html',1,'NetTopologySuite::Samples::Tests::Various']]],
+  ['forwardcomparator',['ForwardComparator',['../class_net_topology_suite_1_1_geometries_1_1_coordinate_arrays_1_1_forward_comparator.html',1,'NetTopologySuite::Geometries::CoordinateArrays']]],
+  ['functionsutil',['FunctionsUtil',['../class_open_1_1_topology_1_1_test_runner_1_1_utility_1_1_functions_util.html',1,'Open::Topology::TestRunner::Utility']]],
+  ['fuzzypointlocator',['FuzzyPointLocator',['../class_net_topology_suite_1_1_operation_1_1_overlay_1_1_validate_1_1_fuzzy_point_locator.html',1,'NetTopologySuite::Operation::Overlay::Validate']]]
+];

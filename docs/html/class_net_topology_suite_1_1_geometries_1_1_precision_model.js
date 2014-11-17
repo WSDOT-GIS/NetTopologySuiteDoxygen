@@ -1,0 +1,27 @@
+var class_net_topology_suite_1_1_geometries_1_1_precision_model =
+[
+    [ "PrecisionModel", "class_net_topology_suite_1_1_geometries_1_1_precision_model.html#abe3ac49bbc8c006a4c2bc3d0c2aebcab", null ],
+    [ "PrecisionModel", "class_net_topology_suite_1_1_geometries_1_1_precision_model.html#a8215c1970bc55b6d1cbc8fa44eab5ddb", null ],
+    [ "PrecisionModel", "class_net_topology_suite_1_1_geometries_1_1_precision_model.html#aad66a896a443d33f20590760bf1bcd07", null ],
+    [ "PrecisionModel", "class_net_topology_suite_1_1_geometries_1_1_precision_model.html#a432edc8c54a09a1ae199556ac7bd1bd6", null ],
+    [ "PrecisionModel", "class_net_topology_suite_1_1_geometries_1_1_precision_model.html#a65f713ca7d885788b9de4a9be6b31a9a", null ],
+    [ "CompareTo", "class_net_topology_suite_1_1_geometries_1_1_precision_model.html#ab2947790fa714b02aa2403bfb0e34e3c", null ],
+    [ "CompareTo", "class_net_topology_suite_1_1_geometries_1_1_precision_model.html#a839a186a3e44e721ad60f7e451e1fdaf", null ],
+    [ "Equals", "class_net_topology_suite_1_1_geometries_1_1_precision_model.html#a787ebefcb0d86e077179da3adfc14342", null ],
+    [ "Equals", "class_net_topology_suite_1_1_geometries_1_1_precision_model.html#a4d8aa0a71ecb646b86efe27c194a9eea", null ],
+    [ "GetHashCode", "class_net_topology_suite_1_1_geometries_1_1_precision_model.html#a2345645bd2ad6238967cfa3d045a8bb5", null ],
+    [ "MakePrecise", "class_net_topology_suite_1_1_geometries_1_1_precision_model.html#ace291680c2bde672b0f85bf5995cbed1", null ],
+    [ "MakePrecise", "class_net_topology_suite_1_1_geometries_1_1_precision_model.html#a64e181ccc8d38b7f9fb7e6525d6cf33d", null ],
+    [ "ToExternal", "class_net_topology_suite_1_1_geometries_1_1_precision_model.html#ae869319e509d8d62363baed76332b937", null ],
+    [ "ToExternal", "class_net_topology_suite_1_1_geometries_1_1_precision_model.html#ab20daf7c1ebcdb447d64cb0578978db3", null ],
+    [ "ToInternal", "class_net_topology_suite_1_1_geometries_1_1_precision_model.html#a5ea51f2d5d0ed1ca552689ce551c1061", null ],
+    [ "ToInternal", "class_net_topology_suite_1_1_geometries_1_1_precision_model.html#af298e738fafdf3eb03df860d6ca49882", null ],
+    [ "ToString", "class_net_topology_suite_1_1_geometries_1_1_precision_model.html#a59b73eb7e1843bc25c05478fe4537c5c", null ],
+    [ "MaximumPreciseValue", "class_net_topology_suite_1_1_geometries_1_1_precision_model.html#a74edf7945da315256424f652e112f6f6", null ],
+    [ "IsFloating", "class_net_topology_suite_1_1_geometries_1_1_precision_model.html#abd62e171421d16f11abab7be557acf86", null ],
+    [ "MaximumSignificantDigits", "class_net_topology_suite_1_1_geometries_1_1_precision_model.html#acced94465d93edc8650a83a88db6d219", null ],
+    [ "OffsetX", "class_net_topology_suite_1_1_geometries_1_1_precision_model.html#ad291c8c2277eb97aafdd8c8d89c23eee", null ],
+    [ "OffsetY", "class_net_topology_suite_1_1_geometries_1_1_precision_model.html#af161069b0cdd08c120162cbc2bf3ff7f", null ],
+    [ "PrecisionModelType", "class_net_topology_suite_1_1_geometries_1_1_precision_model.html#a3f15dbe818b1aa0dbe96106328de34ba", null ],
+    [ "Scale", "class_net_topology_suite_1_1_geometries_1_1_precision_model.html#ac6c192aaccfdbb40f9ab3f21311b5151", null ]
+];
